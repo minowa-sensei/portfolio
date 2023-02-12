@@ -2,6 +2,8 @@
 
 ここでは「レスポンシブデザインのワークサンプル」を作成するための必要な知識、技術、サポートファイルなどをまとめます。
 
+Adobe XDの学習コンテンツで学習用キットが手に入る
+https://xdtrail.com/kit-resources/
 
 ## 必要な知識
 * HTML、CSS、JavaScriptの基本的な知識
