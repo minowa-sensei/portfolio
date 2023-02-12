@@ -3,6 +3,7 @@ WEBデザイナー志望の専門学生のためにどのようなポートフ�
 
 ワイヤーフレーム、デザインカンプ、プロトタイプはAdobe XDで統一して、学習プログラムはAdobe XD Trailで行い
 サンプルのUI Kitをベースに必要であればPhotoShopやIllustratorでデザインを起こします。
+
 https://xdtrail.com/
 
 
