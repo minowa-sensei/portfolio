@@ -1,8 +1,10 @@
 # portfolio
 WEBデザイナー志望の専門学生のためにどのようなポートフォリオを構成したら良いかとChatGPTに聞いて構成させてみました。
 
+::手引き::
 ワイヤーフレーム、デザインカンプ、プロトタイプはAdobe XDで統一して、学習プログラムはAdobe XD Trailで行い
 サンプルのUI Kitをベースに必要であればPhotoShopやIllustratorでデザインを起こします。
+
 https://xdtrail.com/
 
 
